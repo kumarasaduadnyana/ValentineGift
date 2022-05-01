@@ -1,0 +1,10 @@
+.gallery .thumbnail{
+    opacity: 0;
+    transition: .5s;
+    transform: translate(0, -40px);
+}
+
+.gallery .thumbnail.muncul{
+    opacity: 1;
+    transform: translate(0,0);
+}

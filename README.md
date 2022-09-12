@@ -9,4 +9,4 @@
 ### 2. Bootstrap</p> link to site (https://getbootstrap.com/)
 
 # The result using Github Pages
-###linkedin.com/in/kumara-saduadnyana-0a407713a
+### https://kumarasaduadnyana.github.io/ValentineGift/
